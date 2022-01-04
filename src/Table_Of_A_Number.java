@@ -7,8 +7,7 @@ public class Table_Of_A_Number {
         int n= sc.nextInt();
         System.out.println("Table of "+n+" is:");
         for (int i = 1; i <11; i++) {
-            int t=i*n;
-            System.out.println(t);
+            System.out.println(i*n);
         }
     }
 }
