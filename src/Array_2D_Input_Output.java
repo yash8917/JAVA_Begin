@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Array_2D_Input_Output {
@@ -19,6 +20,10 @@ public class Array_2D_Input_Output {
             }
             System.out.println();
         }
-
+        System.out.println(" 2nd way");
+//      2nd way to print the array using toString
+        for (int row = 0; row < arr.length; row++) {
+            System.out.println(Arrays.toString(arr[row]));
+        }
     }
 }
