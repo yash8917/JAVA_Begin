@@ -25,5 +25,10 @@ public class Array_2D_Input_Output {
         for (int row = 0; row < arr.length; row++) {
             System.out.println(Arrays.toString(arr[row]));
         }
+//      3rd way to print the arraay using for each loop
+        System.out.println("3rd way to print the array");
+        for (int[] a:arr) {
+            System.out.println(Arrays.toString(a));
+        }
     }
 }
