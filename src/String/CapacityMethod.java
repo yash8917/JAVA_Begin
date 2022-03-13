@@ -10,6 +10,7 @@ public class CapacityMethod {
         System.out.println(st.capacity());
     }
 }
+//Output->
 /*
 16
 16
