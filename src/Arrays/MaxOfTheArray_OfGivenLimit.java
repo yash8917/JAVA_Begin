@@ -1,3 +1,5 @@
+package Arrays;
+
 public class MaxOfTheArray_OfGivenLimit {
     int[] arr;
 

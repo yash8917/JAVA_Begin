@@ -1,3 +1,5 @@
+package Arrays;
+
 public class A_3d_Array {
     public static void main(String[] args) {
         int arr[][][] =new int[3][4][5];

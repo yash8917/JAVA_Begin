@@ -1,3 +1,5 @@
+package Arrays;
+
 public class MaxOfThe_Array {
     int[] arr;
     public int max(int[] arr) {
