@@ -1,3 +1,5 @@
+package String;
+
 public class String_Concatinate {
     String s;
     String_Concatinate(){
