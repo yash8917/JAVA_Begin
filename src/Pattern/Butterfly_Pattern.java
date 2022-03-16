@@ -1,3 +1,5 @@
+package Pattern;
+
 import java.util.Scanner;
 
 public class Butterfly_Pattern {
