@@ -1,7 +1,6 @@
 package Pattern;
 
 import java.util.Scanner;
-
 public class Hollow_Rectangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -13,5 +12,4 @@ public class Hollow_Rectangle {
             System.out.println( );
         }
     }
-
 }
