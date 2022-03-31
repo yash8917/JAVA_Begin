@@ -9,7 +9,7 @@ public class GenericsExam {
     }
     public static void main( String args[] ) {
         Integer[] intArray = { 10, 20, 30, 40, 50 };
-        Character[] charArray = { 'J', 'A', 'V', 'A', 'T','P','O','I','N','T' };
+        Character[] charArray = { 'J', 'A', 'V', 'A', 'T','P' };
 
         System.out.println( "Printing Integer Array" );
         printArray( intArray  );
