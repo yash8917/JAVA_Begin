@@ -7,6 +7,7 @@ public class Array_2D_Input_Output {
     static int[][] arr=new int[3][3];//row is mandatory to mention
     Array_2D_Input_Output(){
         Scanner s =new Scanner(System.in);
+        System.out.println("Enter the Elements:");
         for (int row = 0; row < arr.length; row++) {
             for (int col = 0; col <arr[row].length ; col++) {
                 arr[row][col] = s.nextInt();
