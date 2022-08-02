@@ -19,6 +19,7 @@ public class Multidimention_Array {
             for (int j = 0; j < 3; j++) {
                 obj.get(i).add(sc.nextInt());
             }
+
         }
         System.out.println(obj);
     }
