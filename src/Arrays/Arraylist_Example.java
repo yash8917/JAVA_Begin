@@ -43,6 +43,7 @@ public static void main(String[] args) {
     System.out.println(list);
     System.out.println(list.remove(2));
     System.out.println(list);
+
     }
 }
 
